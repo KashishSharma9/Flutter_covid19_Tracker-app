@@ -1,16 +1,6 @@
 # covid19app
 
-A new Flutter project.
+I've created a covid-19 Tracker App to understand the concept of REST API's. This app shows you the data of the COVID-19 cases in the world in the format of pie chart and also gives you the option to track cases by providing an option for countries. It uses the API to fetch the data and then it is shown in the app.
 
-## Getting Started
+This is how it looks:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
